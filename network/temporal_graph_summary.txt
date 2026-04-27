@@ -1,0 +1,29 @@
+Manx Shearwater Foraging Network — Temporal Graph Summary
+============================================================
+Nodes                  : 82
+  Foraging patches     : 75
+  Colonies             : 7
+
+Temporal span          : 2008-06-14 → 2025-08-31
+Days with edges        : 912
+
+Total edge events      : 158,079  (unique day×node_i×node_j)
+Total trip connections : 190,908
+Mean edges per day     : 173.3
+Mean weight per day    : 209.3
+
+Visit radius (foraging): 20.0 km
+Visit radius (colony)  : 5.0 km
+
+Top 10 edges by cumulative weight across all days:
+  node_i    node_j  total_weight  n_days_active
+patch_72  patch_74          1159            468
+patch_72  patch_73          1108            455
+patch_71  patch_74          1094            448
+patch_71  patch_72          1083            448
+patch_71  patch_73          1064            441
+patch_73  patch_74          1018            418
+patch_72 colony_cp          1015            415
+patch_71 colony_cp          1015            415
+patch_73 colony_cp          1015            415
+patch_74 colony_cp          1015            415
