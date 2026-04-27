@@ -1,0 +1,17 @@
+MPA Intersection Analysis — Manx Shearwater Foraging Network
+============================================================
+MPA source           : JNCC (UK + Ireland), clipped to Celtic Seas
+MPA polygons (merged): 88
+
+── Nodes ──────────────────────────────────────────────────
+Total nodes          : 82
+Inside MPA           : 15  (18.3%)
+
+                total  in_mpa        pct
+node_type                               
+colony              7       3  42.857143
+foraging_patch     75      12  16.000000
+
+── Foraging fixes ─────────────────────────────────────────
+Total fixes          : 235,923
+Inside MPA           : 50,684  (21.5%)
